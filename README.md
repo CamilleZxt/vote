@@ -1,3 +1,14 @@
+# vote
+ 基于下面的Pet Shop 做出的更改。基于智能合约的投票
+## Installation
+ 1、启动ganache
+
+ 2、truffle compile
+
+ 3、truffle migrate --reset
+
+ 4、npm run dev
+
 # Pet Shop Truffle Box
 
 This box has all you need to get started with our [Pet Shop tutorial](http://truffleframework.com/tutorials/pet-shop).
